@@ -1,0 +1,5 @@
+# Opcional: control por voz («pon play», «pausa»…).
+# Se pueden instalar aparte con:  python main.py --install-voice
+# o desde el propio programa, con el botón del micrófono.
+vosk>=0.3.45
+sounddevice>=0.4.6

@@ -1,0 +1,6 @@
+yt-dlp>=2024.4.9
+customtkinter>=5.2
+python-vlc>=3.0.2000
+Pillow>=10.0
+lz4>=4.0
+requests>=2.31

@@ -1,0 +1,17 @@
+# Compilación / empaquetado (pesado, se regenera)
+build/
+dist/
+*.egg-info/
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+env/
+
+# Sistema / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
